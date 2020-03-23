@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Название поста",
+      "description": "Текст",
+      "claps": 50,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\n",
+      "claps": 13,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetu repellendus tempore totam voluptate! Alias amet asperiores dolores dolorum earum esse est in itaque libero nesciunt nobis, perspiciatis quam quas quasi rerum saepe totam?",
+      "claps": 9,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\n",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. consectetur adipisicing elit. Distinctio, quis.\n",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\n",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 7,
+      "title": "Lorem ipsum dolor sit",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\n",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 8,
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, quis.\n",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 9,
+      "title": "Lorem ipsum dolor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, in?\n",
+      "claps": 8,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "id": 10,
+      "title": "Lorem ipsum dolor 10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit amet",
+      "claps": 1,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 2
+    },
+    {
+      "title": "Новый пост",
+      "description": "Какое-то описание",
+      "claps": 0,
+      "id": 1584921673228,
+      "createdAt": "2020-03-23T00:01:13.228Z"
+    }
+  ]
+}
